@@ -87,4 +87,3 @@ public class SolarEnergyMaximizer {
 
 ## Result:
 The program successfully Implemented and the output is verified. 
-](https://github.com/RahulvVenugopal/AOA-Java-M13.git)
